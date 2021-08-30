@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "434949399875",
+    "project_id": "daygymdata",
+    "storage_bucket": "daygymdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434949399875:android:9345e49865779f7b24fbf6",
+        "android_client_info": {
+          "package_name": "com.lucas.daygymapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434949399875-ejqdc6mhl23rks767el75ckhleje5lam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucas.daygymapp",
+            "certificate_hash": "a3138a1a6a542298847c8941f7ef43904d3c31cd"
+          }
+        },
+        {
+          "client_id": "434949399875-6qa44679m96vf9to9d723g723r76c88v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31Q4sEaKjK_GXlucql9K7FyBKvt6QEiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434949399875-6qa44679m96vf9to9d723g723r76c88v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
