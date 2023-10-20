@@ -1,5 +1,5 @@
 # DayGym
 
-Projeto final da disciplina de Tecnologia em Desenvolvimento de Sistemas da Universidade Tecnológica Federal do Paraná. 
+Aplicativo mobile para gestão de treinos de musculação, acompanhamento alimentar e gestão de clientes.
 
 
